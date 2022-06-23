@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @abreuthrj
-- 👀 I’m interested in become a senior full-stack developer
-- 🌱 I’m currently learning ui + ux design and nodeJS
-- 💞️ I’m looking to collaborate on any challenge that triggers me to learn something new or with a company that allows me to grow
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/54290435?s=96&v=4" width="128" height="128">
+ </p>
+ 
+<h4 align="center">
+  <b>Thiago Abreu</b>
+</h4>
 
-- My linkedIn: https://www.linkedin.com/in/thiago-abreu-8556861b5/
+<h6 align="center">Software Developer | React-Native • React • PHP</h6>
 
-<!---
-abreuthrj/abreuthrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;</p>
+
+<h5>Interests</h5>
+<p>
+  Hi, my name is Thiago and I'm interested in become a senior full-stack developer! 
+</p>
+
+<h5>Experiences</h5>
+<ul>
+  <li>Software Engineer in Smartfood Itaperuna</li>
+  <li>Web development freelancer</li>
+  <li>React-Native + ReactJS + PHP Developer in Nextale</li>
+</ul>
+
+<h5>Formation</h5>
+<ul>
+  <li>High School ✔️</li>
+  <li>Degree in Computer Science 🔄</li>
+  <li>UI + UX Designer Course 🔄</li>
+  <li>NodeJS Mastering Course 🔄</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abreuthrj"><img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="32" height="32"></a>
+</p>
