@@ -8,9 +8,7 @@
 
 <h6 align="center">Software Developer | React-Native • React • PHP</h6>
 <p align="center">
-  <a href="https://linkedin.com/in/abreuthrj">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=blue&color=blue&message=linkedin&logo=linkedin&link=https://www.linkedin.com/in/abreuthrj/">
 </p>
 
 <p>&nbsp;</p>
