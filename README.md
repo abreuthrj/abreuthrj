@@ -33,5 +33,7 @@
 <p>&nbsp;</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abreuthrj"><img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="32" height="32"></a>
+  <a href="https://linkedin.com/in/abreuthrj">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
