@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/54290435?s=96&v=4" width="128" height="128">
+  <img src="./profile_lcd.png">
  </p>
  
 <h4 align="center">
