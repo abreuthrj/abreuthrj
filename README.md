@@ -20,9 +20,9 @@
 
 <h5>Experiences</h5>
 <ul>
-  <li>Software Engineer in Smartfood Itaperuna</li>
-  <li>Web development freelancer</li>
-  <li>Full-Stack developer in Nextale</li>
+  <li>Software Engineer in Smartfood Itaperuna (6 years)</li>
+  <li>Web development freelancer (6 months)</li>
+  <li>Full-Stack developer in Nextale (1 year and 6 months)</li>
   <li>Full-Stack developer in coClub</li>
 </ul>
 
