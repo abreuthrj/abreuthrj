@@ -8,7 +8,7 @@
 
 <h6 align="center">Software Developer | React-Native • React • PHP</h6>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abreuthrj/"><img src="https://img.shields.io/static/v1?label=&labelColor=blue&color=blue&message=linkedin&logo=linkedin&link=https://www.linkedin.com/in/abreuthrj/"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/abreuthrj/"><img src="https://img.shields.io/static/v1?label=&labelColor=blue&color=blue&message=linkedin&logo=linkedin&link=https://www.linkedin.com/in/abreuthrj/"></a>
 </p>
 
 <p>&nbsp;</p>
