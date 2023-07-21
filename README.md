@@ -15,7 +15,7 @@
 
 <h5>Interests</h5>
 <p>
-  Hi, my name is Thiago and I'm interested in become a senior full-stack developer! 
+  Hi, my name is Thiago and I'm a full-stack developer! 
 </p>
 
 <h5>Experiences</h5>
