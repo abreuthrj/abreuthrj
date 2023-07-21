@@ -23,6 +23,7 @@
   <li>Software Engineer in Smartfood Itaperuna</li>
   <li>Web development freelancer</li>
   <li>React-Native + ReactJS + PHP Developer in Nextale</li>
+  <li>React-Native + NestJS + Neo4J in coClub</li>
 </ul>
 
 <h5>Formation</h5>
