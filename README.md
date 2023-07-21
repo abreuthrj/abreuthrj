@@ -30,8 +30,8 @@
 <ul>
   <li>High School ✔️</li>
   <li>Degree in Computer Science 🔄</li>
-  <li>UI + UX Designer Course 🔄</li>
-  <li>NodeJS Mastering Course 🔄</li>
+  <li>UI + UX Designer Course ✔️</li>
+  <li>NodeJS Mastering Course ✔️</li>
 </ul>
 
 <p>&nbsp;</p>
