@@ -20,16 +20,18 @@
 
 <h5>Experiences</h5>
 <ul>
-  <li>Software Engineer in Smartfood Itaperuna (4 years and 6 months)</li>
-  <li>Web development freelancer (6 months)</li>
-  <li>Full-Stack developer in Nextale (1 year and 2 months)</li>
+  <li>Software Engineer in Smartfood Itaperuna</li>
+  <li>Web development freelancer</li>
+  <li>Full-Stack developer in Nextale</li>
   <li>Full-Stack developer in coClub</li>
+  <li>Back-End developer in Rubcube</li>
+  <li>Partner | Technology in Kokedama</li>
 </ul>
 
 <h5>Formation</h5>
 <ul>
   <li>High School ✔️</li>
-  <li>Degree in Computer Science 🔄</li>
+  <li>Degree in Computer Science ✔️</li>
   <li>UI + UX Designer Course ✔️</li>
   <li>NodeJS Mastering Course ✔️</li>
 </ul>
